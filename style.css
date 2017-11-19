@@ -1,0 +1,23 @@
+.ts {
+    display: block;
+    text-align: right;
+    padding-right: 450px;
+}
+.ip {
+    text-align: center;
+    float: center;
+}
+.header {
+    padding-bottom: 100px;
+}
+
+@media (max-width : 550px) {
+    .ts{
+        display: block;
+         text-align: right;
+         padding-right: 0px; 
+    }
+    /* body{
+        background-color: black;
+    } */
+}
